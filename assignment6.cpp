@@ -415,7 +415,6 @@ int main()
     cout << "Updated Commission = "
          << s1.getCommission() << endl;
 
-
     cout << "\n SALESMANAGER " << endl;
 
     SalesManager sm1(104, 80000, 20000, 10000);
@@ -437,7 +436,6 @@ int main()
     sm1.setCommission(12000);
 
     sm1.display();
-
 
     cout << "\n ACCEPT TEST" << endl;
 
